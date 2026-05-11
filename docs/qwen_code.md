@@ -5,7 +5,7 @@
 Qwen Code is an open-source AI agent that lives in your terminal, built by the Qwen team at Alibaba Group. It has DeepSeek as a **built-in third-party provider** — just bring your API key.
 
 - **GitHub:** <https://github.com/QwenLM/qwen-code>
-- **Docs:** <https://qwenlm.github.io/qwen-code-docs/>
+- **Docs:** <https://qwenlm.github.io/qwen-code-docs/en/users/overview/>
 
 #### 1. Install Qwen Code
 

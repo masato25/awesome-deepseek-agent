@@ -5,7 +5,7 @@
 Qwen Code 是阿里巴巴通义千问团队开发的开源 AI 终端助手。DeepSeek 已经作为**内置第三方提供商**集成在 Qwen Code 中——你只需要带上自己的 API Key 即可使用。
 
 - **GitHub:** <https://github.com/QwenLM/qwen-code>
-- **文档:** <https://qwenlm.github.io/qwen-code-docs/>
+- **文档:** <https://qwenlm.github.io/qwen-code-docs/zh/users/overview/>
 
 #### 1. 安装 Qwen Code
 
